@@ -1,0 +1,9 @@
+requests
+pandas
+pandas-ta
+numpy
+pyTelegramBotAPI
+python-dotenv
+apscheduler
+cohere
+openai
